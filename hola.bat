@@ -5,5 +5,6 @@ ECHO Pulsa S para Si
 CHOICE /c SN /m "Si o NO"
 CLS
 ECHO He limpiado la pantalla
+ECHO Hola
 ECHO %DATE%
 PAUSE
